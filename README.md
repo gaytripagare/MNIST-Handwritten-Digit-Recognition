@@ -30,11 +30,11 @@ Draw a digit ✍️ → CNN processes it → Get an instant prediction 🎯
 
 ### ✨ Try the application
 
-**👉 [Launch Handwritten Digit Recognition App](YOUR_STREAMLIT_APP_LINK_HERE)**
+**👉 (https://mnist-handwritten-digit-recognition-gayatripagare.streamlit.app/)**
 
 </p>
 
-> Replace `YOUR_STREAMLIT_APP_LINK_HERE` with your deployed Streamlit URL after deployment.
+
 
 ---
 
